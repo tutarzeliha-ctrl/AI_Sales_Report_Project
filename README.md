@@ -63,5 +63,7 @@ Tam raporu buradan görüntüleyebilirsin:
 ## 🧩 Klasör Yapısı
 ---
 
+---
+
 ### 👀 Profile Views
-![Profile Views](https://komarev.com/ghpvc/?username=zelihatutar&color=blue&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=zelihatutar&label=Profile%20Visits&color=0a192f&labelColor=66ccff&style=for-the-badge)
