@@ -47,10 +47,10 @@ Kullanılan kütüphaneler:
 ## 📊 Görsel Önizleme
 
 ### Satış Zaman Serisi
-![Sales Plot](visuals/sales_plot.png)
+![Sales Plot](https://raw.githubusercontent.com/tutarzeliha-ctrl/AI_Sales_Report_Project/main/sales_plot.png)
 
 ### Ortalama Satış Grafiği
-![Average Sales Plot](visuals/avg_sales.png)
+![Average Sales Plot](https://raw.githubusercontent.com/tutarzeliha-ctrl/AI_Sales_Report_Project/main/avg_sales.png)
 
 ---
 
