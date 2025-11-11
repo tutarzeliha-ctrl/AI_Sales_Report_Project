@@ -67,3 +67,14 @@ Tam raporu buradan görüntüleyebilirsin:
 
 ### 👀 Profile Views
 ![Profile Views](https://komarev.com/ghpvc/?username=zelihatutar&label=Profile%20Visits&color=0a192f&labelColor=66ccff&style=for-the-badge)
+
+---
+
+### 📈 GitHub Stats
+![Zeliha's GitHub stats](https://github-readme-stats.vercel.app/api?username=zelihatutar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0A192F&title_color=66ccff&text_color=ffffff)
+
+### 💻 Most Used Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zelihatutar&layout=compact&theme=tokyonight&hide_border=true&bg_color=0A192F&title_color=66ccff&text_color=ffffff)
+
+### 🔥 GitHub Streak
+![GitHub Streak](https://streak-stats.demolab.com?user=zelihatutar&theme=tokyonight&hide_border=true&background=0A192F&ring=66ccff&fire=66ccff&currStreakLabel=ffffff)
