@@ -1,2 +1,63 @@
-# AI_Sales_Report_Project
- AI destekli satış analizi (Dark Pro sürümü)
+# 🧠 AI Sales Report — Dark Pro Edition
+
+Bu proje, **Python + ReportLab + Matplotlib** kullanılarak oluşturulmuş
+AI destekli satış analizi raporudur.  
+Rapor, otomatik veri özeti, tablo oluşturma, grafik çizimi ve iki dilli (Türkçe–İngilizce) içerik üretimini tek sistemde birleştirir.
+
+---
+
+## 🚀 Özellikler
+- 🖤 **Dark Mode** PDF tasarımı  
+- 📊 **Tablo + Grafik** entegrasyonu  
+- 🇹🇷 **Türkçe karakter desteği** (DejaVuSans fontu ile)  
+- 🌐 **İki dilli içerik:** Türkçe & İngilizce  
+- 📁 **GitHub uyumlu klasör yapısı**  
+- 🔧 **Tam otomasyon:** Kod çalıştığında tablo ve grafikler otomatik üretilir  
+
+---
+
+## 📄 Rapor İçeriği
+
+### 1️⃣ **Kapak Sayfası**
+- Başlık: *Satış Tahmin Analiz Raporu / Sales Forecast & Analysis Report*
+- Yazar: **Zeliha Tutar**
+- Tarih ve proje bilgileri  
+
+### 2️⃣ **Veri Özeti**
+- Toplam 12 dönem analizi  
+- Satış aralığı: 01.01.2025 – 01.12.2025  
+- Toplam satış: ₺241.000  
+- Ortalama satış: ₺20.083  
+- Ay bazında tablo (Ocak–Haziran dönemi)
+
+### 3️⃣ **Grafikler**
+- Aylık satış zaman serisi  
+- Ortalama satış dağılımı  
+
+### 4️⃣ **AI Yorumları**
+- Türkçe ve İngilizce açıklamalar  
+- Trend, mevsimsellik, kampanya etkisi  
+
+### 5️⃣ **Teknik Ek**
+Kullanılan kütüphaneler:  
+`pandas`, `matplotlib`, `reportlab`, `os`, `datetime`
+
+---
+
+## 📊 Görsel Önizleme
+
+### Satış Zaman Serisi
+![Sales Plot](visuals/sales_plot.png)
+
+### Ortalama Satış Grafiği
+![Average Sales Plot](visuals/avg_sales.png)
+
+---
+
+## 🧾 PDF Rapor
+Tam raporu buradan görüntüleyebilirsin:  
+👉 [AI_Sales_Report_v18.pdf](report/AI_Sales_Report_v18.pdf)
+
+---
+
+## 🧩 Klasör Yapısı
