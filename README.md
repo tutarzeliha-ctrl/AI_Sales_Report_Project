@@ -1,3 +1,16 @@
+---
+
+## 🧠 Project Summary (English)
+
+**AI Sales Report — Dark Pro Edition**
+
+Developed an AI-powered automated reporting system that analyzes sales data, generates bilingual (TR/EN) PDF reports, and visualizes key metrics such as trends, seasonality, and campaign performance.  
+Designed a Dark Mode layout with integrated charts and data summaries for a professional, GitHub-ready presentation.
+
+**Tech Stack:** Python • Pandas • Matplotlib • ReportLab  
+**Highlights:** Automated PDF export • Dual-language content • GitHub-optimized structure • Dark UI Theme
+
+
 # 🧠 AI Sales Report — Dark Pro Edition
 
 Bu proje, **Python + ReportLab + Matplotlib** kullanılarak oluşturulmuş
